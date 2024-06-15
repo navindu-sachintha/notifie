@@ -38,7 +38,7 @@ note <command>
 |note find <filter>  |Get matching notes|
 |note remove <id>    |Remove note by id|
 |note web [port]     |Launch Web UI to see notes|
-|-note clean         |Remove all notes, This action can't be recover
+|note clean         |Remove all notes, This action can't be recover
 
 | Option | Description |
 |--------|-------------|
